@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 Ariel Daguerre
 
 192.168.1.40
 
 12:14
+=======
+IP: 179.38.93.8
+Hora: 12:14
+>>>>>>> upstream/main
