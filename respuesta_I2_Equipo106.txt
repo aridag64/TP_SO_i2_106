@@ -1,3 +1,14 @@
 FRANCO AGUIRRE
 ARIEL DAGUERRE
 IVAN AYALA
+
+a)
+
+git fetch upstream
+git checkout main
+git merge upstream/main
+git push origin main
+
+b) Si, se puede hacer apuntando el upstream hacia otro repositorio con el siguiente comando: 
+
+git remote -v https://github.com/Ivan-Ayala-02/TP_SO_i2_106.git
