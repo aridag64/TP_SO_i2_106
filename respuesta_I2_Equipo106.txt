@@ -12,3 +12,8 @@ git push origin main
 b) Si, se puede hacer apuntando el upstream hacia otro repositorio con el siguiente comando: 
 
 git remote set-url upstream https://github.com/Ivan-Ayala-02/TP_SO_i2_106.git
+
+c-Si, se puede actualizar. Utilizando: git remote set-url upstream https://github.com/aridag64/TP_SO_i2_106.git
+
+d-No, los datos no se sobreescriben.
+
