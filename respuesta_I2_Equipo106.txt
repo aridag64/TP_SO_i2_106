@@ -11,4 +11,4 @@ git push origin main
 
 b) Si, se puede hacer apuntando el upstream hacia otro repositorio con el siguiente comando: 
 
-git remote -v https://github.com/Ivan-Ayala-02/TP_SO_i2_106.git
+git remote set-url upstream https://github.com/Ivan-Ayala-02/TP_SO_i2_106.git
