@@ -2,6 +2,7 @@ FRANCO AGUIRRE
 ARIEL DAGUERRE
 IVAN AYALA
 
+
 a)
 
 git fetch upstream
@@ -16,4 +17,16 @@ git remote set-url upstream https://github.com/Ivan-Ayala-02/TP_SO_i2_106.git
 c-Si, se puede actualizar. Utilizando: git remote set-url upstream https://github.com/aridag64/TP_SO_i2_106.git
 
 d-No, los datos no se sobreescriben.
+
+e- git clone https://github.com/franla12/TP_SO_i2_106.git  ARIEL DAGUERRE  IVAN AYALA
+
+git remote add upstream https://github.com/franla12/TP_SO_i2_106.git ARIEL DAGUERRE  IVAN AYALA 
+
+git remote set-url upstream https://github.com/Ivan-Ayala-02/TP_SO_i2_106.git  ARIEL DAGUERRE
+
+git remote set-url upstream https://github.com/aridag64/TP_SO_i2_106  IVAN AYALA
+
+git add.
+git commit -m ""
+git push
 
